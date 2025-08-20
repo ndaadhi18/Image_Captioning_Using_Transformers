@@ -1,0 +1,19 @@
+
+# Ignore the base model
+base-captioning-model/
+
+# Ignore all fine-tuned models
+fine-tuned-captioning-epoch*/
+
+# Ignore dataset images
+dataset/Images/
+
+# Ignore jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore other large files
+*.safetensors
+*.pptx
+*.pdf
+*.docx
+*.csv
