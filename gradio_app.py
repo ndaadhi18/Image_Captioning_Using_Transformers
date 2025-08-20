@@ -1,3 +1,4 @@
+# gradio inference script
 import gradio as gr
 from transformers import VisionEncoderDecoderModel, ViTImageProcessor, AutoTokenizer
 import torch
