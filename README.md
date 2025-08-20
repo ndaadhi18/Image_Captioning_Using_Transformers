@@ -1,6 +1,6 @@
 # GenAI Project
 
-This project is for an image captioning model, including the training scripts, models, and a Gradio app.
+In this project we tried to finetune the pretained Vision Transformer Architecture based image captioning model(ViT-GPT2) on a smaller dataset, this github repository includes the training scripts, models, and a Gradio app.
 
 ### Key Components:
 
