@@ -1,3 +1,4 @@
+# Training Script
 import os
 import pandas as pd
 from PIL import Image
